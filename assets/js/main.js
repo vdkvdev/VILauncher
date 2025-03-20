@@ -19,6 +19,7 @@ app.on('ready', () => {
     });
     mainWindow.loadFile('index.html');
     mainWindow.setMenuBarVisibility(false);
+    //mainWindow.webContents.openDevTools();
 });
 
 // Buscar ejecutable de Java

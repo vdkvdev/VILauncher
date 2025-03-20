@@ -17,14 +17,14 @@ VILauncher is a custom Minecraft launcher, developed with modern technologies th
 ## 🛠️ Installation
 
 ### Method 1: Direct Installation
-1. Download the installer from [vilauncher.vercel.app](https://vilauncher.vercel.app/)
+1. Download the installer from `dist` (from this repo)
 2. Run the `.exe` (Windows) or `.AppImage` (Linux) file
 3. Follow the installer instructions
 
 ### Method 2: Development
 ```bash
 # Clone the repository
-git clone https://gitlab.com/VIfront/vilauncher.git
+git clone https://github.com/vdkvdev/VILauncher.git
 
 # Install dependencies
 npm install
@@ -56,10 +56,6 @@ npm run build
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 For more details, see the [LICENSE](LICENSE) file in the repository.
 
-## 📞 Contact
-- 📧 Email: vdkv@proton.me
-- 💬 Telegram: @vdkv000
-
-## 💖 Support the Project
+<!--## 💖 Support the Project
 If you find this project useful, consider making a donation to keep development active:
-- Bitcoin: `bc1qsq27ruvlq7fpyaen5vwcl4gqx2xqsx7r52tw7s`
+- Bitcoin: `bc1qsq27ruvlq7fpyaen5vwcl4gqx2xqsx7r52tw7s`-->
